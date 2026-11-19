@@ -658,5 +658,19 @@
   "Checking sign-in": "Revisando inicio de sesión",
   "Minecraft sign-in failed": "El inicio de sesión de Minecraft falló",
   "Microsoft sign-in expired": "El inicio de sesión de Microsoft expiro",
-  "Restart the app to request a new code.": "Reinicia la aplicacion para solicitar un nuevo codigo."
+  "Restart the app to request a new code.": "Reinicia la aplicacion para solicitar un nuevo codigo.",
+  "Xbox One is not supported": "Xbox One is not supported",
+  "Bandit Launcher needs an Xbox Series X or Xbox Series S.": "Bandit Launcher needs an Xbox Series X or Xbox Series S.",
+  "Bandit": "Bandit",
+  "Midnight": "Midnight",
+  "Moss": "Moss",
+  "Ocean": "Ocean",
+  "Berry": "Berry",
+  "Ember": "Ember",
+  "Daylight": "Daylight",
+  "Pack is empty or exceeds the 2 GB input limit": "Pack is empty or exceeds the 2 GB input limit",
+  "Themes": "Themes",
+  "Make your own by adding a theme file to the themes folder in Remote Files.": "Make your own by adding a theme file to the themes folder in Remote Files.",
+  "Theme set to {0}.": "Theme set to {0}.",
+  "The theme was changed but could not be saved.": "The theme was changed but could not be saved."
 }
